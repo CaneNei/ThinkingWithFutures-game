@@ -1,0 +1,31 @@
+Thinking of futures Document
+
+How to Play:
+Only hardware needed is a computer and a mouse. (1920 x 1080 resolution recommended, but should work on all)
+Left click to interact with NPC's and cards
+Right click to move around the open areas
+escape to pause game
+
+During the open area's, talk to NPC's to collect cards which will be used later. Each NPC can only
+be interacted with once so make sure you know if you want to collect or reject the card.
+
+Level 1, you walk into the house door to progress to the battle
+Level 2, you talk to the NPC on the stage 'principal' to progress to the battle
+Level 3, you walk into a door of either one of the buildings to progress to the battle
+
+Card battles are carried out by clicking and dragging the cards
+click and hold on an attack card and drag and release onto the enemy you wish to attack
+click and hold on a defensive card, drag and release onto yourself to activate
+
+If stuck in card battles, aim to focus the spawns of the bosses.
+
+
+References: 
+Music was third-partied
+
+Fesliyan, D. (2015). Old Video Game Music [Recorded by D. Fesliyan].
+Fesliyan, D. (2019). 8 Bit Presentation [Recorded by D. Fesliyan].
+jabameister (2020). Simple 8 Bit Game Loop 1 [Recorded by L. Weyrostek].
+https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623 [track 8 and track 9].
+
+
